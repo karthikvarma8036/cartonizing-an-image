@@ -144,22 +144,5 @@ python app.py
 ### Emma Watson Cartoonized
 <img alt="Emma Watson Cartoonized" style="border-width:0" src="static/sample_images/twitter_image.png" />
 
-### Youtube Video of Avenger's Bar Scene Cartoonized
-[![Cartoonized version of Avenger's bar scene](http://img.youtube.com/vi/GqduSLcmhto/0.jpg)](http://www.youtube.com/watch?v=GqduSLcmhto "AVENGERS BAR SCENE [Cartoonized Version]")
-
----
-
-## License
-
-1. Copyright © Cartoonizer ([Demo webapp](https://cartoonize-lkqov62dia-de.a.run.app/))
-
-    - Authors: [Niraj Pandkar](https://twitter.com/Niraj_pandkar) and [Tejas Mahajan](https://twitter.com/tjdevWorks).
-
-    - Licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) 
-    - Commercial application is prohibited by license
 
 
-2. Copyright (C) Xinrui Wang, Jinze Yu. ([White box cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization))
-    - All rights reserved. 
-    - Licensed under the CC BY-NC-SA 4.0 
-    - Also, Commercial application is prohibited license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
